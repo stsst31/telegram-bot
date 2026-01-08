@@ -1,4 +1,3 @@
-# telegram-bot
 Самый простой Telegram-бот на aiogram 3
 🚀 Запуск на Render
 Build Command:
